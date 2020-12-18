@@ -1,0 +1,4 @@
+﻿  main.cpp
+  parse_stl.cpp
+C:\Users\H.Sarhan\source\repos\STL\STL\parse_stl.cpp(68,32): error C2082: Neudefinition des formalen Parameters "t"
+  Code wird generiert...
